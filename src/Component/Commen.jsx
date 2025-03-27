@@ -1,14 +1,30 @@
 import React from 'react'
-import { useState } from "react";
-import { useEffect } from "react";
+
 
 const Commen = () => {
-     let [count, setCount] = useState([])
-            useEffect (() => {
-                fetch("http://localhost:4001/testimonials", {method : 'GET'})
-                .then(response => response.json())
-                .then(data => setCount(data))      
-            } , [])
+const testimonials=[
+        {
+            "name": "John Doe",
+            "role": "WEB-DESIGNER",
+            "image": "https://randomuser.me/api/portraits/men/1.jpg",
+            "quote":
+              "Great! Mauris venenatis est ut ante egestas, at maximus dolor dictum. Donec auctor mauris sit amet euismod tristique."
+          },
+          {
+            "name": "Mark Davidson",
+            "role": "BLOGGER",
+            "image": "https://randomuser.me/api/portraits/men/2.jpg",
+            "quote":
+              "Great! Mauris venenatis est ut ante egestas, at maximus dolor dictum. Donec auctor mauris sit amet euismod tristique."
+          },
+          {
+            "name": "Anita May",
+            "role": "BLOGGER",
+            "image": "https://randomuser.me/api/portraits/women/1.jpg",
+            "quote":
+              "Great! Mauris venenatis est ut ante egestas, at maximus dolor dictum. Donec auctor mauris sit amet euismod tristique."
+          }
+      ]
   return (
     <div>
         <section className="testimonials">
@@ -18,7 +34,7 @@ const Commen = () => {
         brewed cup of coffee and we understand them.
       </p>
       <div className="testimonial-container">
-        {count.map((testimonial, index) => (
+        {testimonials.map((testimonial, index) => (
           <div className="testimonial-card" key={index}>
             <div className="quote-icon">❝</div>
             <img src={testimonial.image} alt={testimonial.name} />
