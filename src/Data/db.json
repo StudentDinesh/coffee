@@ -1,0 +1,205 @@
+{
+    "products" :[
+        {
+            "id": 1,
+            "title":"Brewed coffee",
+            "description": "You can order our coffee in the online store or find our store in your city.",
+            "image": "https://coffo.peerduck.com/wp-content/uploads/2022/04/rgvrgv@2x.png"   
+          },
+        {
+            "id": 2,
+            "title":"Coffee beans",
+            "description": "You can order our coffee in the online store or find our store in your city.",
+            "image": "https://coffo.peerduck.com/wp-content/uploads/2022/04/5k4gm@2x.png"   
+          },
+        {
+          "id": 3,
+          "title":"Ground coffee",
+          "description": "You can order our coffee in the online store or find our store in your city.",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2022/04/etgvet@2x.png"   
+        }
+      ],
+      "testimonials" :[
+        {
+            "name": "John Doe",
+            "role": "WEB-DESIGNER",
+            "image": "https://randomuser.me/api/portraits/men/1.jpg",
+            "quote":
+              "Great! Mauris venenatis est ut ante egestas, at maximus dolor dictum. Donec auctor mauris sit amet euismod tristique."
+          },
+          {
+            "name": "Mark Davidson",
+            "role": "BLOGGER",
+            "image": "https://randomuser.me/api/portraits/men/2.jpg",
+            "quote":
+              "Great! Mauris venenatis est ut ante egestas, at maximus dolor dictum. Donec auctor mauris sit amet euismod tristique."
+          },
+          {
+            "name": "Anita May",
+            "role": "BLOGGER",
+            "image": "https://randomuser.me/api/portraits/women/1.jpg",
+            "quote":
+              "Great! Mauris venenatis est ut ante egestas, at maximus dolor dictum. Donec auctor mauris sit amet euismod tristique."
+          }
+      ],
+      "items" :[
+        {
+          "id": 1,
+          "name": "Arabica Roasted Beans",
+          "price": "13.25",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2020/11/rkjgkrg-160x225.png"
+        },
+        {
+          "id": 2,
+          "name": "Ethiopia Roasted Beans",
+          "price": "17.93",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2020/11/ksjfjfs-160x225.png"
+        },
+        {
+          "id": 3,
+          "name": "kenya Light Roasted Beans",
+          "price": "39.97",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2020/11/krgjr-160x225.png"
+        },
+        {
+          "id": 4,
+          "name": "Cube Roasted Beans",
+          "price": "38.10",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/krgnvgr-160x225.png"
+        },
+        {
+          "id": 5,
+          "name": "Arabica Medium Roasted Beans",
+          "price": "278.00",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2020/11/rkjgkrg-160x225.png"
+        },
+        {
+          "id": 6,
+          "name": "Red Capsule Coffee light",
+          "price": "7.27",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/nbjk-160x225.png"
+        },
+        {
+          "id": 7,
+          "name": "Brown Coffee Cup",
+          "price": "14.29",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/htlmb-1-160x225.png"
+        },
+        {
+          "id": 8,
+          "name": "Gray Coffee Cup",
+          "price": "28.02",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/ogbjgo-2-160x225.png"
+        },
+        {
+          "id": 9,
+          "name": "Coffee Cup",
+          "price": "17.27",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/kbtntkb-3-160x225.png"
+        },
+        {
+          "id": 10,
+          "name": "Red Capsule Coffee light",
+          "price": "4.29",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/kbjk-160x225.png"
+        },
+        {
+          "id": 11,
+          "name": "Rollisa Coffee Mocha Light",
+          "price": "8.02",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/khkm-160x225.png"
+        },
+        {
+          "id": 12,
+          "name": "Rollisa Coffee Latte strong",
+          "price": "11.27",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/kjppo-160x225.png"
+        },
+        {
+          "id": 13,
+          "name": "Green Ethiopia Coffee",
+          "price": "14.29",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2020/11/ksjfjfs-160x225.png"
+        },
+        {
+          "id": 14,
+          "name": "Rollisa Coffee set Large",
+          "price": "38.02",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/khkm-160x225.png"
+        },
+        {
+          "id": 15,
+          "name": "Capsule Coffee Strong",
+          "price": "7.27",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/kjppo-160x225.png"
+        }, 
+        {
+          "id": 16,
+          "name": "Coffee  Cup Small",
+          "price": "17.27",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/kbtntkb-3-160x225.png"
+        },
+        {
+          "id": 17,
+          "name": "Black Capsule Coffee light",
+          "price": "7.26",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/nbjk-160x225.png"
+        },
+        {
+          "id": 18,
+          "name": "Coffee Cup Brown",
+          "price": "14.27",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/htlmb-1-160x225.png"
+        },
+        {
+          "id": 19,
+          "name": "Coffee Cup Gray",
+          "price": "28.05",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/ogbjgo-2-160x225.png"
+        },
+        {
+          "id": 20,
+          "name": "Coffee min-Cup",
+          "price": "17.25",
+          "image": "https://coffo.peerduck.com/wp-content/uploads/2021/11/kbtntkb-3-160x225.png"
+        }
+      ],
+      "farm" :[
+        {
+          "id": 1,
+          "title": "HIDDEN FALLS ESTATE",
+          "description": "Hidden Falls Estate gets its name from a beautiful yet elusive waterfall that is hidden among an outcrop of huge rocks  yet elusive waterfall.",
+          "image": "https://bluetokaicoffee.com/cdn/shop/files/Rectangle_59_800x.png?v=1704352745"
+        },
+        {
+            "id": 2,
+            "title":"attikan estates",
+            "description": "Located to the south of Mysore, Karnataka, the Biligiri Ranjan Hills, or “white hills”, are named hangs over region Located to the south .",
+            "image": "https://bluetokaicoffee.com/cdn/shop/files/Rectangle_61_1afeabb3-5659-4b9f-bfa3-58fc6b12bb44_800x.png?v=1705923114"   
+          },
+        {
+          "id": 3,
+          "title":"ram estate",
+          "description": "Currently managed by the 5th generation of the family, Ram Estate has. The estate is strategically located in the crest of Pulney Hills in Kamanur village.",
+          "image": "https://bluetokaicoffee.com/cdn/shop/files/IMG_8680_3_800x.png?v=1705923241"   
+        },
+        {
+          "id": 4,
+          "title":"ratnagiri estate",
+          "description": "Ratnagiri Estate is a Rainforest Alliance certified farm in the South Indian Western Ghats near Bababudangiri, the place where coffee in India first originated.",
+          "image": "https://bluetokaicoffee.com/cdn/shop/files/IMG_8681_2_800x.png?v=1705923365"   
+        },
+        {
+          "id": 5,
+          "title":"Yelliemadaloo Estate",
+          "description": "Yelliemadaloo Estate, lies along the banks of the stream it’s named after. Located on alongside pepper and areca nuts.",
+          "image": "https://bluetokaicoffee.com/cdn/shop/files/Rectangle_83_800x.png?v=1705923404"   
+        },
+        {
+          "id": 6,
+          "title":"Araku valley",
+          "description": "The Araku Valley Farmers Collective is run and implemented by the non-profit TechnoServe.",
+          "image": "https://bluetokaicoffee.com/cdn/shop/files/Rectangle_60_79376239-e60b-40ab-a8d8-d2ee7fef1c9e_800x.png?v=1705923768"   
+        }
+      ]
+}

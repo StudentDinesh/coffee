@@ -1,0 +1,7 @@
+.content-rights3 .coffee-info h3 {
+  transition: color 0.3s ease;
+}
+
+.content-rights3:hover .coffee-info h3 {
+  color: #ff6347; /* Change to desired hover color */
+}
